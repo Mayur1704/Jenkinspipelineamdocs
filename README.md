@@ -1,0 +1,2 @@
+# Jenkinspipelineamdocs
+Jenkins stage pipeline
